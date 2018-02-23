@@ -1,0 +1,20 @@
+player:
+  groups:
+    -
+      player1: selman
+      player2: adil
+    -
+      player1: murat
+      player2: mustafa
+    -
+      player1: serdar
+      player2: hatip
+    -
+      player1: fatih
+      player2: bülent
+    -
+      player1: turgay
+      player2: hakan
+    -
+      player1: hüseyin
+      player2: burak
